@@ -11,7 +11,8 @@ package com.richtech.flightradar24;
  */
 public class App {
     
-    public static void main (String[] args){
+    public static void Main (String[] args){
+        System.out.println("hello world");
         System.out.println("hello world");
     }
 }
