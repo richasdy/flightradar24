@@ -8,7 +8,7 @@ package com.richtech.flightradar24;
 
 /**
  *
- * @author Aini Hanifa
+ * @author richasdy
  */
 public class FlightDetailTrail {
    private double latitude;//lintang
